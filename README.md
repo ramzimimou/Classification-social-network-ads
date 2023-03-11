@@ -19,7 +19,7 @@ We will use the Age and Estimated Salary columns to predict whether a user will 
 
 To run the code, follow the steps below:
 
-**1-Download the dataset from the link provided above.**
+**1-Download the dataset from the repository above.**
 
 **2-Open Google drive and upload the dataset in DATA file, (Make sure that the path in the code corresponds to the dataset placement).**
 
