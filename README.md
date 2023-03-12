@@ -37,7 +37,7 @@ To run the code, follow the steps below:
 **3-Open Google Colab and create a new Python 3 notebook and run the code after pasting it (the three codes were implemented separately).**
 
 ## Results
-The performance of each algorithm is evaluated based on accuracy, confusion matrix, and classification report. The Naive Bayes Classifier achieved an accuracy of 90.0%, the Decision Tree Classifier achieved an accuracy of 94.0%, and the K-Nearest Neighbors Classifier achieved an accuracy of 93.0% on the testing data.
+The performance of each algorithm is evaluated based on accuracy, confusion matrix, and classification report. The Naive Bayes Classifier achieved an accuracy of 90.0%, the Decision Tree Classifier achieved an accuracy of 94.0%, and the K-Nearest Neighbors Classifier achieved an accuracy of only 77.0% on the testing data.
 
 ## Conclusion
 In this project, we used three classification algorithms to predict whether a user will purchase a product based on their age and estimated salary, using the Social Network Ads dataset. These algorithms can be further optimized to achieve better results on this dataset or other similar datasets.
