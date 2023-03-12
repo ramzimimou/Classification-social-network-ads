@@ -42,5 +42,5 @@ The performance of each algorithm is evaluated based on accuracy, confusion matr
 ## Conclusion
 In this project, we used three classification algorithms to predict whether a user will purchase a product based on their age and estimated salary, using the Social Network Ads dataset. These algorithms can be further optimized to achieve better results on this dataset or other similar datasets.
 
-Credits
+## Credits
 This code was created by ramzimimou.
