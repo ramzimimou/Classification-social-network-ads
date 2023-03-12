@@ -28,3 +28,5 @@ To run the code, follow the steps below:
 ## Conclusion
 
 In this project, we used Naive Bayes Classification algorithm to predict whether a user will purchase a product based on their age and estimated salary, using the Social Network Ads dataset. We achieved an accuracy of 90.0% on the testing data.
+## Cridits
+This code was created by ramzimimou
